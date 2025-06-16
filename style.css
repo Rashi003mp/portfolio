@@ -1,0 +1,60 @@
+body{
+   background-color:black;
+   cursor:default;
+   height: 100vh;
+}
+.nav{
+    background-color: black;
+}
+.btn{
+    background-color: black;
+}
+.d-flex{
+    position: relative;
+    top: 100px;
+}
+.p-1{
+    border: 1px solid white;
+    border-radius: 50px;
+}
+.btn-group button:hover{
+    background-color:rgba(107, 107, 107, 0.307);
+    transform: scale(1.1);
+}
+.gredient-text{
+    color:#00FFFF;
+}
+#end-line{
+    background-color: #FF4F00;
+    height: 20px;
+    width: 100vh;
+    margin-top: 130px;
+}
+#left-photo{
+    width: 20%;
+    height: 20%;
+    padding-right: 50px;
+    border-right: 1px solid white;
+}
+#right-of{
+        width: 20%;
+    height: 20%;
+    position: relative;
+}
+#photo{
+object-fit: cover;
+    width: 20%;
+    height: 20%;
+}
+hr{
+    border: 1px solid white;
+}
+#second-section{
+    border-top : 2cm solid black;
+    margin-left: 20%;
+    margin-right: 20%;
+    color: white;
+}
+#project-side{
+    color: white;
+}
