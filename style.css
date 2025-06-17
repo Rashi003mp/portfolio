@@ -1,14 +1,13 @@
 body{
    background-color:black;
    cursor:default;
-   height: 100vh;
 }
-.nav{
+/* .nav{
     background-color: black;
 }
 .btn{
     background-color: black;
-}
+} */
 .d-flex{
     position: relative;
     top: 100px;
@@ -57,4 +56,12 @@ hr{
 }
 #project-side{
     color: white;
+}
+#contact{
+    margin-top: 100px;
+    padding: 50px;
+}
+#myimg{
+    height: 300px;
+
 }
